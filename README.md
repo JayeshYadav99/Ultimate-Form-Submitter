@@ -21,6 +21,7 @@ A playful web application that takes the mundane process of form submission and 
 - **Next.js**: The React framework for building server-rendered applications.
 - **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
 - **Framer Motion**: A library for animation and gesture handling in React.
+- **MongoDB**: A NoSQL database used to store form data..
 
 ## 🛠️ Getting Started
 
