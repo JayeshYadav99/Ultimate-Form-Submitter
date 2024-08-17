@@ -5,7 +5,7 @@ A playful web application that takes the mundane process of form submission and 
 
 ## 🎥 Demo Video
 
-[![Functionally Dysfunctional Form Submitter Demo](https://github.com/user-attachments/assets/8ce16b7e-1df5-40b2-a46d-320ea6a33ecc)
+[Functionally Dysfunctional Form Submitter Demo](https://github.com/user-attachments/assets/8ce16b7e-1df5-40b2-a46d-320ea6a33ecc)
 
 
 
