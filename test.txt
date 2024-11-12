@@ -1,0 +1,64 @@
+
+
+
+
+Video Script:
+
+
+
+Hello, I’m Jayesh Yadav, a passionate software developer with a strong foundation in full-stack development. Currently, I’m pursuing CSE from KPGU Vadodara. I thrive in environments where I can continuously learn and solve complex problems with creativity and precision.
+
+
+
+I’ve worked on several projects that showcase my expertise , including
+
+[PureCart – MERN Stack, Health & Budget Platform].
+
+A platform designed to help health-conscious, budget-savvy shoppers.
+
+
+
+I also built [“Chat with Data” – AI-powered document processing (Langchain, LLM, Next.js)] for efficient interaction  with structured and unstructured data.
+
+
+
+At [thebundled.ai – AI Image Generation, Model Integration (Intern)], I am currently an intern, gaining hands-on experience integrating multiple image generation models into a single platform..
+
+
+
+I’ve participated in various hackathons, winning
+
+[1st prize at MLH ChatHacks]
+
+and [Best Use of Vonage at HackthisFall].
+
+
+
+I’m excited to take on new challenges, collaborate with passionate professionals, and make an impact in the tech world.
+
+
+
+On-screen Display:
+
+
+
+PureCart – MERN Stack, Health & Budget Platform demo glimpse
+
+
+
+Chat with Data – AI-powered document processing (Langchain, LLM, Next.js) demo glimpse
+
+
+
+Thebundled.ai – AI Image Generation, Model Integration demo glimpse
+
+
+
+Hackathon Achievements:
+
+1st prize at MLH ChatHacks
+
+Best Use of Vonage at HackthisFall
+
+
+
